@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    background: url('gatos.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: rgb(40, 37, 37);
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    max-width: 500px;
+    margin: auto;
+    background: rgba(255, 255, 255, 1); /* el color del recuadro (blanco)*/
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.8);
+}
+
+h1 {
+    font-size: 28px;
+}
+
+input {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+button {
+    background: #6ea277;
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+button:hover {
+    background: #cadcd0;
+}
+
+#lista {
+    list-style: none;
+    padding: 0;
+}
+
+#lista li {
+    background: rgba(196, 44, 44, 0.2);
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+    color: black;
+}
+
+footer {
+    position: fixed;
+    bottom: 10px;
+    right: 20px;
+    color: rgb(14, 14, 14);
+    font-size: 14px;
+}
