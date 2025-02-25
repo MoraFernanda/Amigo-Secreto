@@ -8,7 +8,6 @@
 - 🎲 **Sortear aleatoriamente** a cada participante con un amigo secreto.
 - 🔄 **Borrar resultados** para hacer un nuevo sorteo.
 - 🧹 **Limpiar nombres** para ingresar un nuevo grupo de participantes.
-- 🎨 **Interfaz visual atractiva** con imagen de fondo y estilos modernos.
 
 ## 🛠️ Tecnologías Utilizadas
 - **HTML** → Estructura del juego.
@@ -19,10 +18,10 @@
 1. Ingresa los nombres de los participantes en la caja de texto y presiona **"Agregar"**.
 2. Una vez agregados los participantes, presiona **"Sortear Amigo Secreto"**.
 3. El resultado se mostrará con los emparejamientos generados.
-4. Puedes usar **"Borrar Resultados"** para limpiar la pantalla o **"Limpiar Nombres"** para empezar desde cero.
+4. Puedes usar **"Limpiar Nombres"** para empezar desde cero.
 
 ## 📌 Autor
-**By: Andrea Chasi Navas**
+**Andrea Chasi Navas**
 
 ---
 
